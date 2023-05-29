@@ -2408,7 +2408,8 @@
                     "id": "C1601"
                 }
             ],
-            "id": "C1"
+            "id": "C1",
+            "timezone":"America/Edmonton"
         },
         {
             "stateName": "BRITISH COLUMBIA",
@@ -4218,7 +4219,8 @@
                     "id": "C2451"
                 }
             ],
-            "id": "C2"
+            "id": "C2",
+            "timezone":"America/Vancouver"
         },
         {
             "stateName": "MANITOBA",
@@ -6032,7 +6034,8 @@
                     "id": "C3452"
                 }
             ],
-            "id": "C3"
+            "id": "C3",
+            "timezone":"America/Winnipeg"
         },
         {
             "stateName": "NEW BRUNSWICK",
@@ -10706,7 +10709,8 @@
                     "id": "C41167"
                 }
             ],
-            "id": "C4"
+            "id": "C4",
+            "timezone":"America/Halifax"
         },
         {
             "stateName": "NEWFOUNDLAND AND LABRADOR",
@@ -12512,7 +12516,8 @@
                     "id": "C5450"
                 }
             ],
-            "id": "C5"
+            "id": "C5",
+            "timezone":"America/St_Johns"
         },
         {
             "stateName": "NOVA SCOTIA",
@@ -15106,7 +15111,8 @@
                     "id": "C6647"
                 }
             ],
-            "id": "C6"
+            "id": "C6",
+            "timezone":"America/Halifax"
         },
         {
             "stateName": "ONTARIO",
@@ -19932,7 +19938,8 @@
                     "id": "C71205"
                 }
             ],
-            "id": "C7"
+            "id": "C7",
+            "timezone":"America/Toronto"
         },
         {
             "stateName": "PRINCE EDWARD ISLAND",
@@ -20138,7 +20145,8 @@
                     "id": "C850"
                 }
             ],
-            "id": "C8"
+            "id": "C8",
+            "timezone":"America/Halifax"
         },
         {
             "stateName": "QUEBEC",
@@ -25208,7 +25216,9 @@
                     "id": "C91266"
                 }
             ],
-            "id": "C9"
+            "id": "C9",
+            "timezone":"America/Toronto"
+
         },
         {
             "stateName": "SASKATCHEWAN",
@@ -27930,7 +27940,8 @@
                     "id": "C10679"
                 }
             ],
-            "id": "C10"
+            "id": "C10",
+            "timezone":"America/Regina"
         },
         {
             "stateName": "Northwest Territories",
@@ -28048,7 +28059,8 @@
                     "id": "C1128"
                 }
             ],
-            "id": "C11"
+            "id": "C11",
+            "timezone":"America/Yellowknife"
         },
         {
             "stateName": "Nunavut",
@@ -28162,7 +28174,8 @@
                     "id": "C1227"
                 }
             ],
-            "id": "C12"
+            "id": "C12",
+            "timezone":"America/Vancouver"
         },
         {
             "stateName": "Yukon",
@@ -28240,7 +28253,8 @@
                     "id": "C1318"
                 }
             ],
-            "id": "C13"
+            "id": "C13",
+            "timezone":"America/Whitehorse"
         }
     ]
 }
